@@ -1,0 +1,79 @@
+body{
+    background-image: url(images/matrix.jpeg);
+    
+}
+h1{
+    position: absolute;
+    color: greenyellow;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10rem;
+    text-align: center;
+}
+/* 
+p{
+    color: aliceblue ;
+    text-align: center;
+}
+.container {
+    position: absolute;
+    text-align: center;
+    border-color: aliceblue;
+    border-width: 1px solid white;
+    height: 100%;
+    width: 100%;
+
+}
+
+.bkgtext1 {
+    margin: 0;
+   position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transform: rotate(300deg);
+    -webkit-transform: rotate(300deg);
+    color: #ffffff;
+    text-align: justify;
+}
+.bkgtext2 {
+    margin: 1rem;
+   position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    color: hsl(116, 80%, 53%);
+    text-align: justify;
+}
+.bkgtext3 {
+    margin: 1rem;
+   position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    color: hsl(75, 74%, 47%);
+    text-align: justify;
+}
+.bkgtext4 {
+    margin: 1rem;
+   position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    color: hsl(181, 69%, 56%);
+    text-align: justify;
+    
+}
+ */

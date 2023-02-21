@@ -1,0 +1,171 @@
+body{
+    background-image: url(images/shelfroom.png);
+}
+a{
+   text-decoration-color: greenyellow;
+   
+}
+/* 
+.container{
+    position: static;
+
+}
+
+.image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.container:hover .image {
+    opacity: 0.3;
+}
+  
+  .container:hover .middle {
+    opacity: 1;
+}
+ */
+h3{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    color: greenyellow;
+}
+
+.shelf1{
+    position: absolute;
+    top: 7%;
+    left: 10%;
+    transform: translate(-10%,-7%);
+}
+.shelf2{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    transform: translate(-10%,-30%);
+}
+.shelf3{
+    position: absolute;
+    top: 53%;
+    left: 10%;
+    transform: translate(-10%,-53%);
+}
+.shelf4{
+    position: absolute;
+    top: 75%;
+    left: 10%;
+    transform: translate(-10%,-75%);
+}
+.shelf5{
+    position: absolute;
+    top: 97%;
+    left: 10%;
+    transform: translate(-10%,-97%);
+}
+
+.shelf11{
+    position: absolute;
+    top: 7%;
+    left: 35%;
+    transform: translate(-35%,-7%);
+}
+.shelf22{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    transform: translate(-35%,-30%);
+}
+.shelf33{
+    position: absolute;
+    top: 53%;
+    left: 35%;
+    transform: translate(-35%,-53%);
+}
+.shelf44{
+    position: absolute;
+    top: 75%;
+    left: 35%;
+    transform: translate(-35%,-75%);
+}
+.shelf55{
+    position: absolute;
+    top: 97%;
+    left: 35%;
+    transform: translate(-35%,-97%);
+}
+
+
+.shelf111{
+    position: absolute;
+    top: 7%;
+    left: 60%;
+    transform: translate(-60%,-7%);
+}
+.shelf222{
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-60%,-30%);
+}
+.shelf333{
+    position: absolute;
+    top: 53%;
+    left: 60%;
+    transform: translate(-60%,-53%);
+}
+.shelf444{
+    position: absolute;
+    top: 75%;
+    left: 60%;
+    transform: translate(-60%,-75%);
+}
+.shelf555{
+    position: absolute;
+    top: 97%;
+    left: 60%;
+    transform: translate(-60%,-97%);
+}
+
+
+.shelf1111{
+    position: absolute;
+    top: 7%;
+    left: 85%;
+    transform: translate(-85%,-7%);
+}
+.shelf2222{
+    position: absolute;
+    top: 30%;
+    left: 85%;
+    transform: translate(-85%,-30%);
+}
+.shelf3333{
+    position: absolute;
+    top: 53%;
+    left: 85%;
+    transform: translate(-85%,-53%);
+}
+.shelf4444{
+    position: absolute;
+    top: 75%;
+    left: 85%;
+    transform: translate(-85%,-75%);
+}
+.shelf5555{
+    position: absolute;
+    top: 97%;
+    left: 85%;
+    transform: translate(-85%,-97%);
+}
